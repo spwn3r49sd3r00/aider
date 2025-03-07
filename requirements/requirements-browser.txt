@@ -55,7 +55,7 @@ idna==3.10
     #   -c requirements/requirements-dev.txt
     #   -c requirements/requirements-help.txt
     #   requests
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   -c /Users/gauthier/Projects/aider/requirements.txt
     #   -c requirements.txt
