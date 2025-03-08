@@ -66,7 +66,7 @@ imgcat==0.6.0
     # via -r requirements/requirements-dev.in
 iniconfig==2.0.0
     # via pytest
-jinja2==3.1.5
+jinja2==3.1.6
     # via
     #   -c /Users/gauthier/Projects/aider/requirements.txt
     #   -c requirements.txt
